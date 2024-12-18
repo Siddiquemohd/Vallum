@@ -107,7 +107,7 @@ const VallumReading = () => {
   <div className="w-full md:w-3/4 lg:[width:94.666667%] mx-auto">
     <div className="image-container mb-6">
       <Image
-         src="/images/Capital.png"
+         src="/images/capital.png"
         alt="readings"
         width={0}
         height={0}
