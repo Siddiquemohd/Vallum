@@ -1,7 +1,7 @@
 .investment-container {
   padding: 20px;
   font-family: Arial, sans-serif;
-  background: url('https://your-vercel-deployment-url.vercel.app/images/invest1.jpg') no-repeat center center;
+ background: url('/images/invest1.jpg') no-repeat center center;
   background-size: cover;
   color: white;
   min-height: 100vh;
